@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hk7idwsik-python-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/hk7idwsik-python
